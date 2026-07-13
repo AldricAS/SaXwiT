@@ -1,0 +1,7 @@
+phonenumbers
+holehe
+maigret
+socialscan
+ignorant
+rich
+pyfiglet
